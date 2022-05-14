@@ -57,7 +57,7 @@ Code:
 like this
 
 [IPtoSat]
-Host=http://host:port
+Host=http ://host:port
 User=user
 Pass=pass
 
@@ -69,6 +69,7 @@ Press ok to set the channel
 Everything is fine. We will find the channel added in the iptosat.json file with ease
 Suppose you entered the BEIN_SPORT_4K package by mistake
 All you have to do is press the exit button and it will take you back to choosing packages again
+
 -----------------------------------------------------------------------------------------
 Update 1.7
 
@@ -80,6 +81,7 @@ For the list of satellites and favorites, the ch up and down buttons are activat
 When entering the feature to delete a channel or all channels, the channels that were previously set will appear with us
 Green button to select one channel
 Red button to select all channels
+
 -----------------------------------------------------------------------------------------
 Update 1.8
 
