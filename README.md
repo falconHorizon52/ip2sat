@@ -81,3 +81,8 @@ When entering the feature to delete a channel or all channels, the channels that
 Green button to select one channel
 Red button to select all channels
 -----------------------------------------------------------------------------------------
+Update 1.8
+
+- Crash handling when pressing chUP/chDown button
+- Added new reader for Dreamos images (Thanks audi06_19)
+-----------------------------------------------------------------------------------------

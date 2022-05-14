@@ -7,8 +7,8 @@
 # =====================================================================================================================
 
 PACKAGE_DIR='ip2sat/main'
-MY_IPK="enigma2-plugin-extensions-iptosat_1.7_all.ipk"
-MY_DEB="enigma2-plugin-extensions-iptosat_1.7.deb"
+MY_IPK="enigma2-plugin-extensions-iptosat_1.8_all.ipk"
+MY_DEB="enigma2-plugin-extensions-iptosat_1.8.deb"
 
 MY_MAIN_URL="https://raw.githubusercontent.com/biko-73/"
 if which dpkg > /dev/null 2>&1; then
